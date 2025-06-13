@@ -1,0 +1,5 @@
+sweet-crumbs/
+├── public/
+│   └── index.html  ← your site HTML
+├── server.js       ← the Node.js backend
+├── package.json
